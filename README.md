@@ -1,4 +1,5 @@
-## Hi there 👋
+## 🚀 En pleine aventure à l’École 42, j’apprends à résoudre des problèmes complexes grâce au code.
+Chaque projet est un pas de plus vers la maîtrise des technologies numériques.
 
 <img width="150" height="150" alt="libfte" src="https://github.com/user-attachments/assets/0d41ff6a-8dce-45e2-adde-e666368c1906" /> <img width="150" height="150" alt="ft_printfe" src="https://github.com/user-attachments/assets/3c3995e8-9b3f-4a5c-bcdc-99ad331ee1e2" /> <img width="150" height="150" alt="get_next_linem" src="https://github.com/user-attachments/assets/1774f411-c897-41e4-808f-c731d731e593" /> <img width="150" height="150" alt="born2beroote" src="https://github.com/user-attachments/assets/2b04770f-1d2a-48ee-afa4-9e8c79223c1e" />
 
