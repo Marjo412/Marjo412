@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img width="150" height="150" alt="libfte" src="https://github.com/user-attachments/assets/0d41ff6a-8dce-45e2-adde-e666368c1906" />
+
+
 <!--
 **Marjo412/Marjo412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
