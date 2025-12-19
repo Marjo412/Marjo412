@@ -5,7 +5,7 @@ Chaque projet est un pas de plus vers la maîtrise des technologies numériques.
 
 <img width="150" height="150" alt="minitalke" src="https://github.com/user-attachments/assets/8597c317-ca2e-4b6b-9954-dac743b49b2f" /> <img width="150" height="150" alt="push_swape" src="https://github.com/user-attachments/assets/edd65ffb-5cca-4a2e-97c5-6c2ed212d19f" /> <img width="150" height="150" alt="so_longe" src="https://github.com/user-attachments/assets/6e286816-08ec-4cca-82ac-3553a675c46d" /> <img width="150" height="150" alt="minishelle" src="https://github.com/user-attachments/assets/8822ce43-f61a-450e-9159-63666ef5c7d1" />
 
-<img width="150" height="150" alt="philosopherse" src="https://github.com/user-attachments/assets/5a7e8dd8-2f49-43f6-9586-f2ab858a2b71" /> <img width="150" height="150" alt="netpracticen" src="https://github.com/user-attachments/assets/c785d50d-aac2-41e8-b125-5f682e986b16" /> <img width="150" height="150" alt="cub3dn" src="https://github.com/user-attachments/assets/56b65a41-39c3-4323-8ed7-81decd5075d7" /> <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/de692b64-873f-4550-95d4-959dd0738fad" />
+<img width="150" height="150" alt="philosopherse" src="https://github.com/user-attachments/assets/5a7e8dd8-2f49-43f6-9586-f2ab858a2b71" /> <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/6ade738d-2894-4811-85eb-7ea9d36c67af" /> <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/0e2fce86-73b6-445d-96cf-7c64ed54799f" /> <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/de692b64-873f-4550-95d4-959dd0738fad" />
 
 
 
